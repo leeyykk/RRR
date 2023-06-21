@@ -3,4 +3,4 @@ The Java program, Review, Record, Revise (RRR) attempts to reduce the number of 
 
 Video link: https://drive.google.com/file/d/1OrFLZ6SAZbC0F-oUAa7u7W8L0CxWMh95/view?usp=sharing
 
-![alt text](https://github.com/leeyykk/RRR/blob/main/SS1.png| width=100)
+![alt text](https://github.com/leeyykk/RRR/blob/main/SS1.png | width=100)
